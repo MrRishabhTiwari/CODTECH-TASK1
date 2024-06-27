@@ -1,8 +1,13 @@
 **Name**: Rishabh Tiwari
+
 **Company**: CODTECH IT SOLUTIONS
+
 **ID**: CT08DS1430
+
 **Domain**: CYBER SECURITY & ETHICAL HACKING
+
 **Mentor**: SRAVANI GOUNI
+
 # CODTECH-TASK1 Password Strength Checker
 
 #### Objective
